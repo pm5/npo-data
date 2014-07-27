@@ -1,0 +1,20 @@
+{
+  "name": "npo-org-tw",
+  "version": "0.0.0",
+  "description": "台灣公益資訊中心",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "taiwan",
+    "npo",
+    "ngo"
+  ],
+  "author": "Pomin Wu <pomin5@gmail.com> (pm5)",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "cheerio": "~0.17.0",
+    "prelude-ls": "~1.1.1"
+  }
+}
